@@ -11,6 +11,7 @@ You'll also se a "Create new user" form, with 3 different types of input. Name, 
 Your assignment is to make sure the actions (Edit, Delete & Create) works fine.
 
 You don't have any restrictions, except changing the `public/index.html` file.
+Make sure it works in latest Chrome & Firefox.
 
 Timebox: ~3 hours.
 
