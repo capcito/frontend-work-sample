@@ -12,7 +12,7 @@ Your assignment is to make sure the actions (Edit, Delete & Create) works fine.
 
 You don't have any restrictions, except changing the `public/index.html` file.
 
-Timebox: ~3-4 hours.
+Timebox: ~3 hours.
 
 ## Getting started
 1. `git clone https://github.com/capcito/frontend-work-sample.git`
