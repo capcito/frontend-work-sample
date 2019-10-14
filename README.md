@@ -17,4 +17,5 @@ Timebox: ~3-4 hours.
 ## Getting started
 1. `git clone https://github.com/capcito/frontend-work-sample.git`
 2. `cd frontend-work-sample`
-3. `npm run serve` or `yarn serve`
+3. `npm install` or `yarn install`
+4. `npm run serve` or `yarn serve`
