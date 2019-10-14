@@ -1,0 +1,14 @@
+{
+  "name": "@capcito/frontend-work-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/capcito/frontend-work-sample.git",
+  "author": "Robin Bertilsson <robin.bertilsson@capcito.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "serve ./public"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
